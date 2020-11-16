@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331835003491",
+    "firebase_url": "https://travelku-a648c.firebaseio.com",
+    "project_id": "travelku-a648c",
+    "storage_bucket": "travelku-a648c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331835003491:android:9845b6ec212cd6e1f69e56",
+        "android_client_info": {
+          "package_name": "com.asus.travelkuanggita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331835003491-0jc84lppikde3tj87c4rb070s9vl3b5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYSi0ZhsK00lhVhENgmtlS0yiIu9iX2nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331835003491-0jc84lppikde3tj87c4rb070s9vl3b5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
